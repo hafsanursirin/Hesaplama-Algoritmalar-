@@ -1,4 +1,4 @@
-# Hesaplama-Algoritmalari-
+# Hesaplama-Algoritmaları-
 
 Bu GitHub deposu, RSA ve SMA algoritmalarını içeren ve ayrıca bir sayının tersini bulan algoritmayı içeren bir kütüphaneyi barındırmaktadır. Bu algoritmalar, şifreleme sistemlerini analiz etmek ve geliştirmek için kullanılan önemli kriptografik araçlardır. Bu kodlar, bu algoritmaların temel prensiplerini anlamak ve uygulamak isteyenler için bir kaynak olarak tasarlanmıştır. Ayrıca, kriptografi alanında çalışma yapmak isteyen araştırmacılar ve geliştiriciler için öğrenme ve deney yapma amacıyla da uygun bir ortam sağlar. Bu repo, açık kaynaklı toplulukla paylaşılan bilgi ve deneyimlerin bir birleşimi olarak gelişmeye açıktır. Katkıda bulunmak veya projeyi çeşitli platformlarda kullanmak isteyen herkesi bekliyoruz.
 
