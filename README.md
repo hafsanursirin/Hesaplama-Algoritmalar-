@@ -1,1 +1,1 @@
-# Hesaplama-Algoritmaları-
+# Hesaplama-Algoritmalari-
